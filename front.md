@@ -1,5 +1,6 @@
 ---
-layout: front
 title: front
-slug: /front
+layout: front
+slug: "/front"
 ---
+
